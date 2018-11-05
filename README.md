@@ -7,3 +7,5 @@ and control board from a remote control toy drone. Currently, we are working on 
 are attached to in order to allow to put them on the correct place on the frame. Pictures of our current progress are attached below.
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/JPEG_20181101_100351.jpg)
+
+![alt text](http://url/to/JPEG_20181101_100351.jpg)
