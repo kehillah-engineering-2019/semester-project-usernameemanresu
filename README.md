@@ -6,6 +6,14 @@ Right now, the top frame has gone through multiple drafts and a finished version
 and control board from a remote control toy drone. Currently, we are working on extending the wires that the motors
 are attached to in order to allow to put them on the correct place on the frame. Pictures of our current progress are attached below.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/board.png.png)
+The controller board we are using:
 
-![alt text](http://url/to/board.png.png)
+![](board.png)
+
+The motors we are using:
+
+![](motor.png)
+
+The top frame final draft:
+
+![](frame.png)
