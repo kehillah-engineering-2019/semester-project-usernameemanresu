@@ -35,6 +35,8 @@ def diameter(volume):
     """
     return the diameter of a sphere of given volume
     """
+    
+    return 2*(((3*volume)/(4*math.pi))**(1/3))
 
 
 def get_mass_air(volume):
@@ -52,7 +54,7 @@ def get_mass_helium(volume):
     return the mass (g) of a volume (ft^3) of helium
     """
 
-
+    return volume * 5.05
 
 
 
