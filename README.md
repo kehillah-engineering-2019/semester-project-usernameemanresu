@@ -17,3 +17,8 @@ The motors we are using:
 The top frame final draft:
 
 ![](frame.png)
+
+
+When we were about to present our project we noticed that one of the motors had been destroyed in testing and we were unable to fix it :(
+
+![](broken.png)
